@@ -1,0 +1,66 @@
+about:
+  description: opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
+  license: NOASSERTION
+  homepage: https://opam.ocaml.org
+  head: 5767fc3
+  archived: false
+  latestVersion: 2.6.0-beta2
+  collectedAt: 2026-09-02T04:51:20Z
+timeline:
+  created: 2012-02-17
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 1376
+  watcher: 57
+  fork: 407
+  release: 93
+  contributor: 177
+  pullRequest: 440
+  issue: 3635
+language:
+  OCaml: 2980254
+  Shell: 200497
+  SourcePawn: 88364
+  C: 45139
+  M4: 33174
+  Makefile: 24381
+  PowerShell: 8442
+  Dockerfile: 1777
+  Dune: 400
+  sed: 49
+  Common Lisp: 35
+totalLine: 3382512
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 15
+    openPR: 16
+    closedIssue: 4
+    openIssue: 19
+    commit: 48
+  last90d:
+    since: 2026-06-04
+    release: 4
+    mergedPR: 60
+    openPR: 30
+    closedIssue: 19
+    openIssue: 55
+    commit: 188
+  last180d:
+    since: 2026-03-06
+    release: 5
+    mergedPR: 103
+    openPR: 44
+    closedIssue: 33
+    openIssue: 73
+    commit: 313
+  last360d:
+    since: 2025-09-07
+    release: 9
+    mergedPR: 182
+    openPR: 67
+    closedIssue: 53
+    openIssue: 125
+    commit: 517
