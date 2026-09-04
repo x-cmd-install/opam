@@ -7,7 +7,7 @@ about:
   head: f8e38f4
   archived: false
   latestVersion: 2.6.0-beta2
-  collectedAt: 2026-09-04T19:46:39Z
+  collectedAt: 2026-09-04T20:50:14Z
 timeline:
   created: 2012-02-17
   lastCommit: 2026-09-02
@@ -90,6 +90,89 @@ total:
   openIssue: 698
   commit: 12420
 ---
+path: /home/runner/.x-repo/github.com/ocaml/opam
+collectedAt: 2026-09-04T20:50:18Z
+loc:
+  OCaml:
+    code: 64773
+    comments: 9435
+    blanks: 7491
+    files: 275
+  Bitbake:
+    code: 3030
+    comments: 0
+    blanks: 476
+    files: 3
+  Sh:
+    code: 2167
+    comments: 177
+    blanks: 357
+    files: 23
+  C:
+    code: 1148
+    comments: 158
+    blanks: 197
+    files: 5
+  Bash:
+    code: 950
+    comments: 219
+    blanks: 85
+    files: 2
+  Makefile:
+    code: 585
+    comments: 23
+    blanks: 143
+    files: 5
+  M4:
+    code: 374
+    comments: 104
+    blanks: 12
+    files: 3
+  Html:
+    code: 293
+    comments: 0
+    blanks: 39
+    files: 1
+  Zsh:
+    code: 230
+    comments: 1
+    blanks: 13
+    files: 2
+  PowerShell:
+    code: 104
+    comments: 18
+    blanks: 20
+    files: 1
+  Autoconf:
+    code: 53
+    comments: 2
+    blanks: 17
+    files: 4
+  Dockerfile:
+    code: 30
+    comments: 1
+    blanks: 0
+    files: 1
+  Fish:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  CShell:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3307
+    blanks: 898
+    files: 20
+total:
+  code: 73778
+  comments: 13446
+  blanks: 9748
+  files: 347
 ---
 date: "2026-08-24"
 repo:
