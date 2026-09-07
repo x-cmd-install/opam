@@ -5,7 +5,7 @@ about:
   head: f8e38f4
   archived: false
   latestVersion: "2.6.0-beta2"
-  collectedAt: 2026-09-07T06:12:50Z
+  collectedAt: 2026-09-07T18:18:02Z
 timeline:
   created: 2012-02-17
   lastCommit: 2026-09-02
@@ -16,7 +16,7 @@ popularity:
   fork: 408
   release: 93
   contributor: 174
-  pullRequest: 3413
+  pullRequest: 3414
   issue: 3637
 language:
   OCaml: 2980254
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 16
-    openPR: 17
+    openPR: 18
     closedIssue: 4
     openIssue: 21
     commit: 39
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-09
     release: 4
     mergedPR: 27
-    openPR: 25
+    openPR: 26
     closedIssue: 13
     openIssue: 40
     commit: 86
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-09
     release: 4
     mergedPR: 57
-    openPR: 31
+    openPR: 32
     closedIssue: 18
     openIssue: 55
     commit: 178
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-11
     release: 5
     mergedPR: 104
-    openPR: 45
+    openPR: 46
     closedIssue: 33
     openIssue: 74
     commit: 313
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-12
     release: 9
     mergedPR: 178
-    openPR: 68
+    openPR: 69
     closedIssue: 53
     openIssue: 121
     commit: 510
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-17
     release: 20
     mergedPR: 399
-    openPR: 99
+    openPR: 100
     closedIssue: 132
     openIssue: 242
     commit: 1131
 total:
   release: 93
   mergedPR: 2972
-  openPR: 153
+  openPR: 154
   closedIssue: 2939
   openIssue: 698
   commit: 12420
 ---
 path: /home/runner/.x-repo/github.com/ocaml/opam
-collectedAt: 2026-09-07T06:12:56Z
+collectedAt: 2026-09-07T18:18:07Z
 loc:
   OCaml:
     code: 64773
@@ -339,7 +339,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:12:57+00:00
+  collectedAt: 2026-09-07T18:18:08+00:00
   platform:
     darwin/arm64:
       name:  opam-2.5.2-arm64-macos
