@@ -1,6 +1,24 @@
----
-owner-repo: ocaml/opam
-desc:   opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow. 
----
-
 # opam
+
+opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
+
+- **Upstream**: <https://github.com/ocaml/opam>
+- **Homepage**: <https://opam.ocaml.org>
+- **Latest release**: `2.6.0-beta2` (2026-07-09)
+- **Last commit**: 2026-09-08
+- **License**: NOASSERTION
+- **Stars**: 1379 · **Forks**: 409 · **Open issues**: 3639 · **Contributors**: 174
+
+## Installation
+
+```sh
+x install opam
+```
+
+See <https://x-cmd.com/install/opam> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T12:42:12Z._
