@@ -2,15 +2,15 @@ about:
   description: "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow."
   license: NOASSERTION
   homepage: https://opam.ocaml.org
-  head: c4acf4f
+  head: 68eb161
   archived: false
   latestVersion: "2.6.0-rc1"
   latestRelease: "2.5.2"
   latestPrerelease: "2.6.0-rc1"
-  collectedAt: 2026-09-09T06:22:41Z
+  collectedAt: 2026-09-09T20:45:54Z
 timeline:
   created: 2012-02-17
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-07-09
   lastPrerelease: 2026-09-08
@@ -20,80 +20,80 @@ popularity:
   fork: 409
   release: 94
   contributor: 174
-  pullRequest: 3419
+  pullRequest: 3420
   issue: 3639
 language:
   OCaml: 2980380
   Shell: 202608
-  SourcePawn: 88364
+  SourcePawn: 88954
   C: 45139
   M4: 33179
-  Makefile: 24381
+  Makefile: 24150
   PowerShell: 8615
   Dockerfile: 1777
   Dune: 400
   sed: 49
   Common Lisp: 35
-totalBytes: 3384927
+totalBytes: 3385286
 recent:
   last30d:
     since: 2026-08-10
     release: 3
-    mergedPR: 19
-    openPR: 18
+    mergedPR: 21
+    openPR: 17
     closedIssue: 4
     openIssue: 23
-    commit: 51
+    commit: 57
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 33
-    openPR: 25
+    mergedPR: 35
+    openPR: 24
     closedIssue: 13
     openIssue: 36
-    commit: 101
+    commit: 107
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 63
-    openPR: 31
+    mergedPR: 65
+    openPR: 30
     closedIssue: 18
     openIssue: 54
-    commit: 193
+    commit: 199
   last180d:
     since: 2026-03-13
     release: 6
-    mergedPR: 109
-    openPR: 45
+    mergedPR: 111
+    openPR: 44
     closedIssue: 33
     openIssue: 76
-    commit: 328
+    commit: 334
   last360d:
     since: 2025-09-14
     release: 10
-    mergedPR: 184
-    openPR: 68
+    mergedPR: 186
+    openPR: 67
     closedIssue: 52
     openIssue: 123
-    commit: 525
+    commit: 531
   last720d:
     since: 2024-09-19
     release: 21
-    mergedPR: 404
-    openPR: 99
+    mergedPR: 406
+    openPR: 98
     closedIssue: 132
     openIssue: 244
-    commit: 1131
+    commit: 1137
 total:
   release: 94
-  mergedPR: 2978
-  openPR: 153
+  mergedPR: 2980
+  openPR: 152
   closedIssue: 2939
   openIssue: 700
-  commit: 12435
+  commit: 12441
 ---
 path: /home/runner/.x-repo/github.com/ocaml/opam
-collectedAt: 2026-09-09T06:22:49Z
+collectedAt: 2026-09-09T20:46:00Z
 loc:
   OCaml:
     code: 64775
@@ -101,9 +101,9 @@ loc:
     blanks: 7491
     files: 275
   Bitbake:
-    code: 3030
+    code: 3048
     comments: 0
-    blanks: 476
+    blanks: 479
     files: 3
   Sh:
     code: 2179
@@ -122,8 +122,8 @@ loc:
     files: 2
   Makefile:
     code: 585
-    comments: 23
-    blanks: 143
+    comments: 22
+    blanks: 142
     files: 5
   M4:
     code: 374
@@ -146,7 +146,7 @@ loc:
     blanks: 20
     files: 1
   Autoconf:
-    code: 53
+    code: 51
     comments: 2
     blanks: 17
     files: 4
@@ -167,13 +167,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3307
+    comments: 3310
     blanks: 898
     files: 20
 total:
-  code: 73793
-  comments: 13446
-  blanks: 9749
+  code: 73809
+  comments: 13448
+  blanks: 9751
   files: 347
 ---
 date: "2026-09-07"
