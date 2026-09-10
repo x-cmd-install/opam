@@ -4,7 +4,7 @@
 
 opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 
-![opam](https://repo.x-cmd.io/opam.svg)
+![opam](https://repo.x-cmd.io/opam.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,6 @@ x install opam
 - **最新版本**: `2.6.0-rc1` (2026-07-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 28 个
-- **发布时间**: 2026-07-09T10:18:54Z
 
 ## 流行度
 
@@ -63,6 +62,39 @@ x install opam
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [opam-2.5.2-arm64-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-arm64-linux) | 8.7 MiB | `native/linux/arm64` |
+| [opam-2.5.2-arm64-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-arm64-linux.sig) | 566 B | `native/linux/arm64` |
+| [opam-2.5.2-arm64-macos](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-arm64-macos) | 8.2 MiB | `native/darwin/arm64` |
+| [opam-2.5.2-arm64-macos.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-arm64-macos.sig) | 566 B | `native/darwin/arm64` |
+| [opam-2.5.2-armhf-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-armhf-linux) | 6.3 MiB | `native/linux/arm` |
+| [opam-2.5.2-armhf-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-armhf-linux.sig) | 566 B | `native/linux/arm` |
+| [opam-2.5.2-i686-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-i686-linux) | 7.8 MiB | `native/linux/x86` |
+| [opam-2.5.2-i686-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-i686-linux.sig) | 566 B | `native/linux/x86` |
+| [opam-2.5.2-ppc64le-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-ppc64le-linux) | 9.8 MiB | `other` |
+| [opam-2.5.2-ppc64le-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-ppc64le-linux.sig) | 566 B | `other` |
+| [opam-2.5.2-riscv64-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-riscv64-linux) | 8.4 MiB | `native/linux/riscv64` |
+| [opam-2.5.2-riscv64-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-riscv64-linux.sig) | 566 B | `native/linux/riscv64` |
+| [opam-2.5.2-s390x-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-s390x-linux) | 9.5 MiB | `other` |
+| [opam-2.5.2-s390x-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-s390x-linux.sig) | 566 B | `other` |
+| [opam-2.5.2-x86_64-freebsd](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-freebsd) | 9.2 MiB | `other` |
+| [opam-2.5.2-x86_64-freebsd.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-freebsd.sig) | 566 B | `other` |
+| [opam-2.5.2-x86_64-linux](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-linux) | 8.5 MiB | `native/linux/x64` |
+| [opam-2.5.2-x86_64-linux.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-linux.sig) | 566 B | `native/linux/x64` |
+| [opam-2.5.2-x86_64-macos](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-macos) | 8.1 MiB | `native/darwin/x64` |
+| [opam-2.5.2-x86_64-macos.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-macos.sig) | 566 B | `native/darwin/x64` |
+| [opam-2.5.2-x86_64-netbsd](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-netbsd) | 8.9 MiB | `other` |
+| [opam-2.5.2-x86_64-netbsd.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-netbsd.sig) | 566 B | `other` |
+| [opam-2.5.2-x86_64-openbsd](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-openbsd) | 11.9 MiB | `other` |
+| [opam-2.5.2-x86_64-openbsd.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-openbsd.sig) | 566 B | `other` |
+| [opam-2.5.2-x86_64-windows.exe](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-windows.exe) | 11.4 MiB | `native/win/x64` |
+| [opam-2.5.2-x86_64-windows.exe.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-windows.exe.sig) | 566 B | `native/win/x64` |
+| [opam-full-2.5.2.tar.gz](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz) | 13.8 MiB | `native/unknown` |
+| [opam-full-2.5.2.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz.sig) | 566 B | `other` |
+
 ## 改进这些数据
 
 opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opam` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +104,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:26:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:27:24Z._
