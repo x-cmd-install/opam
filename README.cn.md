@@ -12,6 +12,28 @@ opam is a source-based package manager. It supports multiple simultaneous compil
 x install opam
 ```
 
+## 代码规模
+
+合计: **73,772** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| OCaml | 64,775 | 9,435 | 7,491 | 275 |
+| Bitbake | 3,048 | 0 | 479 | 3 |
+| Sh | 2,179 | 177 | 358 | 23 |
+| C | 1,148 | 158 | 197 | 5 |
+| Bash | 950 | 219 | 85 | 2 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.4 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ocaml/opam>
@@ -37,30 +59,11 @@ x install opam
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 18 | 17 | 4 | 23 | 57 |
+| last60d | 2026-07-12 | 4 | 35 | 24 | 13 | 36 | 107 |
 | 90d | 2026-06-12 | 5 | 65 | 30 | 18 | 54 | 199 |
+| last180d | 2026-03-14 | 6 | 111 | 44 | 33 | 76 | 334 |
 | 360d | 2025-09-15 | 10 | 185 | 67 | 52 | 123 | 531 |
-
-## 代码规模
-
-合计: **73,772** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| OCaml | 64,775 | 9,435 | 7,491 | 275 |
-| Bitbake | 3,048 | 0 | 479 | 3 |
-| Sh | 2,179 | 177 | 358 | 23 |
-| C | 1,148 | 158 | 197 | 5 |
-| Bash | 950 | 219 | 85 | 2 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.4 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| last720d | 2024-09-20 | 21 | 403 | 98 | 132 | 243 | 1133 |
 
 ## Release 资产
 
@@ -95,6 +98,25 @@ x install opam
 | [opam-full-2.5.2.tar.gz](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz) | 13.8 MiB | `native/unknown` |
 | [opam-full-2.5.2.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz.sig) | 566 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/opam) 上共有 **137** 个发行版报告此项目。**42** 个 ✅ 已是最新上游版本，**79** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.5.2` | ✅ latest |
+| Debian 14 | `2.5.2` | ✅ latest |
+| Debian 13 | `2.3.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
+| Arch | `2.5.2` | ✅ latest |
+| Homebrew | `2.5.2` | ✅ latest |
+| Fedora rawhide | `2.5.2` | ✅ latest |
+| Nix unstable | `2.5.2` | ✅ latest |
+| Void | `2.5.2` | ✅ latest |
+| Alpine edge | `2.5.2` | ✅ latest |
+| openSUSE Tumbleweed | `2.5.2` | ✅ latest |
+
 ## 改进这些数据
 
 opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opam` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +126,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T18:27:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:25:13Z._
