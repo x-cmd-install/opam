@@ -7,7 +7,7 @@ about:
   latestVersion: "2.6.0-rc1"
   latestRelease: "2.5.2"
   latestPrerelease: "2.6.0-rc1"
-  collectedAt: 2026-09-10T18:27:11Z
+  collectedAt: 2026-09-10T21:24:53Z
 timeline:
   created: 2012-02-17
   lastCommit: 2026-09-09
@@ -93,7 +93,7 @@ total:
   commit: 12441
 ---
 path: /home/runner/.x-repo/github.com/ocaml/opam
-collectedAt: 2026-09-10T18:27:18Z
+collectedAt: 2026-09-10T21:25:06Z
 loc:
   OCaml:
     code: 64775
