@@ -7,7 +7,7 @@ about:
   latestVersion: "2.6.0-rc1"
   latestRelease: "2.5.2"
   latestPrerelease: "2.6.0-rc1"
-  collectedAt: 2026-09-11T06:18:19Z
+  collectedAt: 2026-09-11T18:26:52Z
 timeline:
   created: 2012-02-17
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-09
   lastPrerelease: 2026-09-08
 popularity:
-  star: 1378
+  star: 1379
   watcher: 57
   fork: 409
   release: 94
@@ -93,7 +93,7 @@ total:
   commit: 12441
 ---
 path: /home/runner/.x-repo/github.com/ocaml/opam
-collectedAt: 2026-09-11T06:18:25Z
+collectedAt: 2026-09-11T18:27:00Z
 loc:
   OCaml:
     code: 64775
