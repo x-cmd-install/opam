@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 18 | 17 | 4 | 23 | 57 |
-| last60d | 2026-07-12 | 4 | 35 | 24 | 13 | 36 | 107 |
-| 90d | 2026-06-12 | 5 | 65 | 30 | 18 | 54 | 199 |
-| last180d | 2026-03-14 | 6 | 111 | 44 | 33 | 76 | 334 |
-| 360d | 2025-09-15 | 10 | 185 | 67 | 52 | 123 | 531 |
-| last720d | 2024-09-20 | 21 | 403 | 98 | 132 | 243 | 1133 |
+| 30d | 2026-08-12 | 3 | 18 | 17 | 4 | 22 | 57 |
+| last60d | 2026-07-13 | 4 | 32 | 24 | 13 | 33 | 107 |
+| 90d | 2026-06-13 | 5 | 65 | 30 | 18 | 54 | 199 |
+| last180d | 2026-03-15 | 6 | 111 | 44 | 33 | 76 | 334 |
+| 360d | 2025-09-16 | 10 | 184 | 67 | 52 | 123 | 531 |
+| last720d | 2024-09-21 | 20 | 402 | 98 | 131 | 243 | 1126 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:31:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:18:31Z._
