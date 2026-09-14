@@ -48,22 +48,22 @@ x install opam
 
 ## 流行度
 
-- **Star**: 1,379 · **Fork**: 410 · **开放 issue**: 3,639 · **贡献者**: 174
+- **Star**: 1,379 · **Fork**: 410 · **开放 issue**: 3,640 · **贡献者**: 174
 
 ## 累计统计
 
-- **发布数**: 94 · **已合并 PR**: 2980 · **开放 PR**: 154 · **已关闭 issue**: 2939 · **开放 issue**: 700 · **提交数**: 12441
+- **发布数**: 94 · **已合并 PR**: 2980 · **开放 PR**: 154 · **已关闭 issue**: 2939 · **开放 issue**: 701 · **提交数**: 12441
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 18 | 18 | 3 | 17 | 44 |
-| last60d | 2026-07-15 | 4 | 30 | 23 | 12 | 30 | 73 |
-| 90d | 2026-06-15 | 5 | 65 | 32 | 18 | 54 | 195 |
-| last180d | 2026-03-17 | 6 | 111 | 43 | 32 | 76 | 334 |
-| 360d | 2025-09-18 | 10 | 181 | 67 | 51 | 119 | 509 |
-| last720d | 2024-09-23 | 20 | 401 | 100 | 131 | 243 | 1125 |
+| 30d | 2026-08-15 | 3 | 18 | 18 | 3 | 18 | 44 |
+| last60d | 2026-07-16 | 4 | 29 | 23 | 10 | 30 | 73 |
+| 90d | 2026-06-16 | 5 | 65 | 32 | 18 | 55 | 195 |
+| last180d | 2026-03-18 | 6 | 111 | 43 | 32 | 77 | 334 |
+| 360d | 2025-09-19 | 10 | 180 | 66 | 51 | 120 | 509 |
+| last720d | 2024-09-24 | 20 | 400 | 100 | 131 | 244 | 1123 |
 
 ## Release 资产
 
@@ -98,25 +98,6 @@ x install opam
 | [opam-full-2.5.2.tar.gz](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz) | 13.8 MiB | `native/unknown` |
 | [opam-full-2.5.2.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.5.2/opam-full-2.5.2.tar.gz.sig) | 566 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/opam) 上共有 **137** 个发行版报告此项目。**42** 个 ✅ 已是最新上游版本，**79** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.5.2` | ✅ latest |
-| Debian 14 | `2.5.2` | ✅ latest |
-| Debian 13 | `2.3.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
-| Arch | `2.5.2` | ✅ latest |
-| Homebrew | `2.5.2` | ✅ latest |
-| Fedora rawhide | `2.5.2` | ✅ latest |
-| Nix unstable | `2.5.2` | ✅ latest |
-| Void | `2.5.2` | ✅ latest |
-| Alpine edge | `2.5.2` | ✅ latest |
-| openSUSE Tumbleweed | `2.5.2` | ✅ latest |
-
 ## 改进这些数据
 
 opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opam` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -126,4 +107,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:29:18Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:50:13Z._
