@@ -4,7 +4,7 @@
 
 opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 
-[![x-cmd/install — opam Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opam.svg)](https://x-cmd.com/install/opam)
+[![x-cmd/install — opam Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/opam.svg)](https://x-cmd.com/install/opam)
 
 ## Install
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.6.0` (2026-09-17)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 28
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 2987 · **Open PRs**: 158 · **Closed issues**: 2942 · **Open issues**: 704 · **Commits**: 12454
+- **Releases**: 95 · **Merged PRs**: 2988 · **Open PRs**: 159 · **Closed issues**: 2942 · **Open issues**: 704 · **Commits**: 12456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 16 | 17 | 4 | 18 | 44 |
-| last60d | 2026-07-24 | 4 | 33 | 27 | 9 | 33 | 84 |
-| 90d | 2026-06-24 | 6 | 69 | 37 | 20 | 57 | 192 |
-| last180d | 2026-03-26 | 7 | 118 | 47 | 34 | 80 | 346 |
-| 360d | 2025-09-27 | 11 | 182 | 70 | 53 | 124 | 511 |
-| last720d | 2024-10-02 | 21 | 394 | 105 | 131 | 248 | 1135 |
+| 30d | 2026-08-24 | 3 | 17 | 18 | 4 | 18 | 46 |
+| last60d | 2026-07-25 | 4 | 34 | 28 | 8 | 32 | 86 |
+| 90d | 2026-06-25 | 6 | 68 | 38 | 19 | 57 | 194 |
+| last180d | 2026-03-27 | 7 | 119 | 47 | 34 | 80 | 348 |
+| 360d | 2025-09-28 | 11 | 182 | 71 | 53 | 123 | 513 |
+| last720d | 2024-10-03 | 21 | 394 | 106 | 131 | 248 | 1137 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:42:37Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:52:54Z._

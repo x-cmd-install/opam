@@ -4,7 +4,7 @@
 
 opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 
-[![x-cmd/install — opam Code Quality Monitoring Repo Card](https://repo.x-cmd.io/opam.svg?lang=zh)](https://x-cmd.com/install/opam)
+[![x-cmd/install — opam Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/opam.svg?lang=zh)](https://x-cmd.com/install/opam)
 
 ## 安装
 
@@ -43,7 +43,7 @@ x install opam
 ## 发布
 
 - **最新版本**: `2.6.0` (2026-09-17)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 28 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install opam
 
 ## 累计统计
 
-- **发布数**: 95 · **已合并 PR**: 2987 · **开放 PR**: 158 · **已关闭 issue**: 2942 · **开放 issue**: 704 · **提交数**: 12454
+- **发布数**: 95 · **已合并 PR**: 2988 · **开放 PR**: 159 · **已关闭 issue**: 2942 · **开放 issue**: 704 · **提交数**: 12456
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 16 | 17 | 4 | 18 | 44 |
-| last60d | 2026-07-24 | 4 | 33 | 27 | 9 | 33 | 84 |
-| 90d | 2026-06-24 | 6 | 69 | 37 | 20 | 57 | 192 |
-| last180d | 2026-03-26 | 7 | 118 | 47 | 34 | 80 | 346 |
-| 360d | 2025-09-27 | 11 | 182 | 70 | 53 | 124 | 511 |
-| last720d | 2024-10-02 | 21 | 394 | 105 | 131 | 248 | 1135 |
+| 30d | 2026-08-24 | 3 | 17 | 18 | 4 | 18 | 46 |
+| last60d | 2026-07-25 | 4 | 34 | 28 | 8 | 32 | 86 |
+| 90d | 2026-06-25 | 6 | 68 | 38 | 19 | 57 | 194 |
+| last180d | 2026-03-27 | 7 | 119 | 47 | 34 | 80 | 348 |
+| 360d | 2025-09-28 | 11 | 182 | 71 | 53 | 123 | 513 |
+| last720d | 2024-10-03 | 21 | 394 | 106 | 131 | 248 | 1137 |
 
 ## Release 资产
 
@@ -107,4 +107,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:42:37Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:52:56Z._
