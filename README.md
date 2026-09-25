@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,381 · **Forks**: 409 · **Open issues**: 3,646 · **Contributors**: 174
+- **Stars**: 1,381 · **Forks**: 410 · **Open issues**: 3,649 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 2988 · **Open PRs**: 161 · **Closed issues**: 2942 · **Open issues**: 704 · **Commits**: 12456
+- **Releases**: 95 · **Merged PRs**: 2988 · **Open PRs**: 160 · **Closed issues**: 2942 · **Open issues**: 707 · **Commits**: 12456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 3 | 17 | 20 | 3 | 16 | 46 |
-| last60d | 2026-07-26 | 4 | 34 | 30 | 8 | 32 | 86 |
-| 90d | 2026-06-26 | 6 | 66 | 39 | 19 | 56 | 194 |
-| last180d | 2026-03-28 | 7 | 119 | 49 | 34 | 80 | 348 |
-| 360d | 2025-09-29 | 11 | 182 | 72 | 53 | 122 | 513 |
-| last720d | 2024-10-04 | 21 | 394 | 108 | 131 | 248 | 1136 |
+| 30d | 2026-08-26 | 3 | 17 | 19 | 3 | 19 | 46 |
+| last60d | 2026-07-27 | 4 | 33 | 28 | 7 | 35 | 86 |
+| 90d | 2026-06-27 | 6 | 64 | 37 | 19 | 59 | 194 |
+| last180d | 2026-03-29 | 7 | 119 | 47 | 34 | 83 | 348 |
+| 360d | 2025-09-30 | 11 | 182 | 71 | 53 | 125 | 513 |
+| last720d | 2024-10-05 | 21 | 394 | 107 | 131 | 251 | 1136 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:06:33Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:19:27Z._
