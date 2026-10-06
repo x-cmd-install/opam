@@ -14,11 +14,11 @@ x install opam
 
 ## Code insight
 
-Total: **73,739** lines of code across **308** files in the top 5 languages.
+Total: **73,740** lines of code across **308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| OCaml | 64,729 | 9,427 | 7,487 | 275 |
+| OCaml | 64,730 | 9,427 | 7,487 | 275 |
 | Bitbake | 3,048 | 0 | 479 | 3 |
 | Sh | 2,191 | 177 | 359 | 23 |
 | C | 1,148 | 158 | 197 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.6.0` (2026-09-17)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-05
 - **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 410 · **Open issues**: 3,653 · **Contributors**: 174
+- **Stars**: 1,383 · **Forks**: 410 · **Open issues**: 3,657 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 2991 · **Open PRs**: 167 · **Closed issues**: 2943 · **Open issues**: 710 · **Commits**: 12461
+- **Releases**: 95 · **Merged PRs**: 2994 · **Open PRs**: 168 · **Closed issues**: 2945 · **Open issues**: 712 · **Commits**: 12466
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 15 | 20 | 3 | 13 | 20 |
-| last60d | 2026-08-06 | 4 | 33 | 35 | 7 | 34 | 84 |
-| 90d | 2026-07-07 | 6 | 51 | 42 | 16 | 54 | 142 |
-| last180d | 2026-04-08 | 7 | 120 | 55 | 33 | 86 | 344 |
-| 360d | 2025-10-10 | 11 | 179 | 77 | 53 | 116 | 480 |
-| last720d | 2024-10-15 | 21 | 385 | 115 | 129 | 253 | 1109 |
+| 30d | 2026-09-06 | 2 | 17 | 22 | 4 | 16 | 23 |
+| last60d | 2026-08-07 | 4 | 35 | 37 | 8 | 37 | 87 |
+| 90d | 2026-07-08 | 6 | 50 | 43 | 17 | 57 | 145 |
+| last180d | 2026-04-09 | 7 | 123 | 56 | 35 | 88 | 349 |
+| 360d | 2025-10-11 | 11 | 182 | 78 | 55 | 118 | 485 |
+| last720d | 2024-10-16 | 20 | 386 | 116 | 131 | 254 | 1108 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:06:17Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:52:28Z._
