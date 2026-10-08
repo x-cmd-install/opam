@@ -14,13 +14,13 @@ x install opam
 
 ## 代码洞察
 
-合计: **73,754** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
+合计: **73,766** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| OCaml | 64,726 | 9,427 | 7,487 | 275 |
+| OCaml | 64,725 | 9,427 | 7,490 | 275 |
 | Bitbake | 3,066 | 0 | 482 | 3 |
-| Sh | 2,191 | 177 | 359 | 23 |
+| Sh | 2,203 | 177 | 360 | 23 |
 | C | 1,148 | 158 | 197 | 5 |
 | Bash | 950 | 219 | 85 | 2 |
 
@@ -42,61 +42,61 @@ x install opam
 
 ## 发布
 
-- **最新版本**: `2.6.0` (2026-09-17)
-- **最近提交**: 2026-10-06
+- **最新版本**: `2.6.1` (2026-10-07)
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 28 个
 
 ## 流行度
 
-- **Star**: 1,383 · **Fork**: 410 · **开放 issue**: 3,658 · **贡献者**: 174
+- **Star**: 1,383 · **Fork**: 410 · **开放 issue**: 3,660 · **贡献者**: 174
 
 ## 累计统计
 
-- **发布数**: 95 · **已合并 PR**: 3001 · **开放 PR**: 163 · **已关闭 issue**: 2946 · **开放 issue**: 712 · **提交数**: 12476
+- **发布数**: 96 · **已合并 PR**: 3005 · **开放 PR**: 162 · **已关闭 issue**: 2946 · **开放 issue**: 714 · **提交数**: 12491
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 20 | 18 | 5 | 16 | 33 |
-| last60d | 2026-08-08 | 4 | 42 | 32 | 9 | 37 | 98 |
-| 90d | 2026-07-09 | 6 | 55 | 38 | 18 | 56 | 156 |
-| last180d | 2026-04-10 | 7 | 130 | 51 | 36 | 88 | 360 |
-| 360d | 2025-10-12 | 11 | 189 | 73 | 56 | 118 | 496 |
-| last720d | 2024-10-17 | 20 | 391 | 111 | 130 | 253 | 1116 |
+| 30d | 2026-09-08 | 3 | 22 | 16 | 5 | 16 | 50 |
+| last60d | 2026-08-09 | 5 | 46 | 31 | 9 | 39 | 115 |
+| 90d | 2026-07-10 | 6 | 59 | 37 | 18 | 52 | 173 |
+| last180d | 2026-04-11 | 8 | 134 | 50 | 36 | 90 | 377 |
+| 360d | 2025-10-13 | 12 | 193 | 72 | 56 | 120 | 513 |
+| last720d | 2024-10-18 | 21 | 394 | 110 | 130 | 255 | 1130 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [opam-2.6.0-arm64-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-arm64-linux) | 9.2 MiB | `native/linux/arm64` |
-| [opam-2.6.0-arm64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-arm64-linux.sig) | 594 B | `native/linux/arm64` |
-| [opam-2.6.0-arm64-macos](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-arm64-macos) | 8.7 MiB | `native/darwin/arm64` |
-| [opam-2.6.0-arm64-macos.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-arm64-macos.sig) | 594 B | `native/darwin/arm64` |
-| [opam-2.6.0-armhf-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-armhf-linux) | 6.6 MiB | `native/linux/arm` |
-| [opam-2.6.0-armhf-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-armhf-linux.sig) | 594 B | `native/linux/arm` |
-| [opam-2.6.0-i686-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-i686-linux) | 8.2 MiB | `native/linux/x86` |
-| [opam-2.6.0-i686-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-i686-linux.sig) | 594 B | `native/linux/x86` |
-| [opam-2.6.0-ppc64le-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-ppc64le-linux) | 10.4 MiB | `other` |
-| [opam-2.6.0-ppc64le-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-ppc64le-linux.sig) | 594 B | `other` |
-| [opam-2.6.0-riscv64-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-riscv64-linux) | 8.9 MiB | `native/linux/riscv64` |
-| [opam-2.6.0-riscv64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-riscv64-linux.sig) | 594 B | `native/linux/riscv64` |
-| [opam-2.6.0-s390x-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-s390x-linux) | 10.0 MiB | `other` |
-| [opam-2.6.0-s390x-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-s390x-linux.sig) | 594 B | `other` |
-| [opam-2.6.0-x86_64-freebsd](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-freebsd) | 9.8 MiB | `other` |
-| [opam-2.6.0-x86_64-freebsd.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-freebsd.sig) | 594 B | `other` |
-| [opam-2.6.0-x86_64-linux](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-linux) | 9.0 MiB | `native/linux/x64` |
-| [opam-2.6.0-x86_64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-linux.sig) | 594 B | `native/linux/x64` |
-| [opam-2.6.0-x86_64-macos](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-macos) | 8.6 MiB | `native/darwin/x64` |
-| [opam-2.6.0-x86_64-macos.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-macos.sig) | 594 B | `native/darwin/x64` |
-| [opam-2.6.0-x86_64-netbsd](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-netbsd) | 9.5 MiB | `other` |
-| [opam-2.6.0-x86_64-netbsd.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-netbsd.sig) | 594 B | `other` |
-| [opam-2.6.0-x86_64-openbsd](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-openbsd) | 12.6 MiB | `other` |
-| [opam-2.6.0-x86_64-openbsd.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-openbsd.sig) | 594 B | `other` |
-| [opam-2.6.0-x86_64-windows.exe](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-windows.exe) | 12.0 MiB | `native/win/x64` |
-| [opam-2.6.0-x86_64-windows.exe.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-2.6.0-x86_64-windows.exe.sig) | 594 B | `native/win/x64` |
-| [opam-full-2.6.0.tar.gz](https://github.com/ocaml/opam/releases/download/2.6.0/opam-full-2.6.0.tar.gz) | 15.1 MiB | `native/unknown` |
-| [opam-full-2.6.0.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.6.0/opam-full-2.6.0.tar.gz.sig) | 594 B | `other` |
+| [opam-2.6.1-arm64-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-linux) | 9.2 MiB | `native/linux/arm64` |
+| [opam-2.6.1-arm64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-linux.sig) | 594 B | `native/linux/arm64` |
+| [opam-2.6.1-arm64-macos](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-macos) | 8.7 MiB | `native/darwin/arm64` |
+| [opam-2.6.1-arm64-macos.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-macos.sig) | 594 B | `native/darwin/arm64` |
+| [opam-2.6.1-armhf-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-armhf-linux) | 6.6 MiB | `native/linux/arm` |
+| [opam-2.6.1-armhf-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-armhf-linux.sig) | 594 B | `native/linux/arm` |
+| [opam-2.6.1-i686-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-i686-linux) | 8.2 MiB | `native/linux/x86` |
+| [opam-2.6.1-i686-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-i686-linux.sig) | 594 B | `native/linux/x86` |
+| [opam-2.6.1-ppc64le-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-ppc64le-linux) | 10.4 MiB | `other` |
+| [opam-2.6.1-ppc64le-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-ppc64le-linux.sig) | 594 B | `other` |
+| [opam-2.6.1-riscv64-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-riscv64-linux) | 8.9 MiB | `native/linux/riscv64` |
+| [opam-2.6.1-riscv64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-riscv64-linux.sig) | 594 B | `native/linux/riscv64` |
+| [opam-2.6.1-s390x-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-s390x-linux) | 10.0 MiB | `other` |
+| [opam-2.6.1-s390x-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-s390x-linux.sig) | 594 B | `other` |
+| [opam-2.6.1-x86_64-freebsd](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-freebsd) | 9.8 MiB | `other` |
+| [opam-2.6.1-x86_64-freebsd.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-freebsd.sig) | 594 B | `other` |
+| [opam-2.6.1-x86_64-linux](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-linux) | 9.0 MiB | `native/linux/x64` |
+| [opam-2.6.1-x86_64-linux.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-linux.sig) | 594 B | `native/linux/x64` |
+| [opam-2.6.1-x86_64-macos](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-macos) | 8.6 MiB | `native/darwin/x64` |
+| [opam-2.6.1-x86_64-macos.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-macos.sig) | 594 B | `native/darwin/x64` |
+| [opam-2.6.1-x86_64-netbsd](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-netbsd) | 9.5 MiB | `other` |
+| [opam-2.6.1-x86_64-netbsd.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-netbsd.sig) | 594 B | `other` |
+| [opam-2.6.1-x86_64-openbsd](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-openbsd) | 12.6 MiB | `other` |
+| [opam-2.6.1-x86_64-openbsd.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-openbsd.sig) | 594 B | `other` |
+| [opam-2.6.1-x86_64-windows.exe](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-windows.exe) | 12.0 MiB | `native/win/x64` |
+| [opam-2.6.1-x86_64-windows.exe.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-windows.exe.sig) | 594 B | `native/win/x64` |
+| [opam-full-2.6.1.tar.gz](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz) | 15.1 MiB | `native/unknown` |
+| [opam-full-2.6.1.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz.sig) | 594 B | `other` |
 
 ## 改进这些数据
 
@@ -107,4 +107,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T07:24:54Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:26:56Z._
