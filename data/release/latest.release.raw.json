@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9608624,
       "digest": "sha256:8b24ef2f3f44a31763f54878454fb52afa1f2db7e00abed58b8d4e7ee7e290a6",
-      "download_count": 361,
+      "download_count": 654,
       "created_at": "2026-10-07T12:13:55Z",
       "updated_at": "2026-10-07T12:14:00Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:8a39418ea18e9dd54729276ad9540c65e9cb21df4594c1f55cfffd449fa604ea",
-      "download_count": 194,
+      "download_count": 398,
       "created_at": "2026-10-07T12:14:05Z",
       "updated_at": "2026-10-07T12:14:06Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-linux.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9172176,
       "digest": "sha256:3e7f67bda3ba0bf72f597917b17dc337ed5a1bd48224df8b747bb35ce05c569e",
-      "download_count": 1442,
+      "download_count": 2218,
       "created_at": "2026-10-07T12:14:27Z",
       "updated_at": "2026-10-07T12:14:32Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:e5487013e82e3e183c74be8fc5163750cd80cf4c39bd305adc6feadd026f0a07",
-      "download_count": 1340,
+      "download_count": 2082,
       "created_at": "2026-10-07T12:13:49Z",
       "updated_at": "2026-10-07T12:13:49Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-arm64-macos.sig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10244552,
       "digest": "sha256:9c7822d1c7a865a35d6740992ed76513c01efe3cbd66aef43873b763134d2af8",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-07T12:14:11Z",
       "updated_at": "2026-10-07T12:14:16Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-freebsd"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 9456240,
       "digest": "sha256:b533d393a6967150d6ef41cb3d71e147e93ecbabeb59e921aa412c0ae79ebe3d",
-      "download_count": 7167,
+      "download_count": 11407,
       "created_at": "2026-10-07T12:13:44Z",
       "updated_at": "2026-10-07T12:13:49Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-linux"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:a1eedc4e761d7ad9a4e5c9e02984eaaad3c66bdda2adafc75508a963cf754f79",
-      "download_count": 6306,
+      "download_count": 10159,
       "created_at": "2026-10-07T12:13:38Z",
       "updated_at": "2026-10-07T12:13:39Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-linux.sig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9038696,
       "digest": "sha256:c5bb19c813ae9a4317b5ff2845ba52a51c96648c08faa0ecc14900fb61b198c7",
-      "download_count": 216,
+      "download_count": 311,
       "created_at": "2026-10-07T12:14:06Z",
       "updated_at": "2026-10-07T12:14:11Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-macos"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:2304ab5e839a55c3879b57ff602a0f60bb1efe5087fab2c748668d91a548f0a1",
-      "download_count": 206,
+      "download_count": 298,
       "created_at": "2026-10-07T12:14:44Z",
       "updated_at": "2026-10-07T12:14:44Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-macos.sig"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 12548608,
       "digest": "sha256:2548f0592abfa728432c85ef6d08bf97c295c1859ddca61876e33884336c130c",
-      "download_count": 1176,
+      "download_count": 1819,
       "created_at": "2026-10-07T12:14:32Z",
       "updated_at": "2026-10-07T12:14:38Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-windows.exe"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:a035eedb6fdd874c268906f9db972c70d3867b5726fb427e36a8d6419249e321",
-      "download_count": 811,
+      "download_count": 1313,
       "created_at": "2026-10-07T12:13:37Z",
       "updated_at": "2026-10-07T12:13:37Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-2.6.1-x86_64-windows.exe.sig"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 15877014,
       "digest": "sha256:ebbaffa4192e69d612d2c1a5fc5a15b32730322d7e34bc4456ad4076bb987007",
-      "download_count": 217,
+      "download_count": 297,
       "created_at": "2026-10-07T12:14:20Z",
       "updated_at": "2026-10-07T12:14:27Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:97732e50127cc48bd7f4cd79441b9160e4c1a4e8a5589caa17e23ea99b991db5",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-07T12:14:49Z",
       "updated_at": "2026-10-07T12:14:50Z",
       "browser_download_url": "https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz.sig"
