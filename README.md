@@ -14,12 +14,12 @@ x install opam
 
 ## Code insight
 
-Total: **73,819** lines of code across **308** files in the top 5 languages.
+Total: **73,825** lines of code across **308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| OCaml | 64,778 | 9,454 | 7,501 | 275 |
-| Bitbake | 3,066 | 0 | 482 | 3 |
+| OCaml | 64,766 | 9,454 | 7,500 | 275 |
+| Bitbake | 3,084 | 0 | 485 | 3 |
 | Sh | 2,203 | 177 | 360 | 23 |
 | C | 1,148 | 158 | 197 | 5 |
 | Bash | 950 | 219 | 85 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.6.1` (2026-10-07)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 408 · **Open issues**: 3,664 · **Contributors**: 173
+- **Stars**: 1,383 · **Forks**: 408 · **Open issues**: 3,667 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3008 · **Open PRs**: 162 · **Closed issues**: 2946 · **Open issues**: 718 · **Commits**: 12502
+- **Releases**: 96 · **Merged PRs**: 3009 · **Open PRs**: 166 · **Closed issues**: 2948 · **Open issues**: 719 · **Commits**: 12505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 22 | 13 | 4 | 18 | 43 |
-| last60d | 2026-08-16 | 5 | 44 | 29 | 8 | 37 | 116 |
-| 90d | 2026-07-17 | 6 | 55 | 34 | 14 | 49 | 139 |
-| last180d | 2026-04-18 | 7 | 118 | 49 | 34 | 89 | 353 |
-| 360d | 2025-10-20 | 12 | 189 | 70 | 54 | 119 | 504 |
-| last720d | 2024-10-25 | 20 | 386 | 109 | 128 | 256 | 1120 |
+| 30d | 2026-09-16 | 2 | 21 | 17 | 6 | 19 | 46 |
+| last60d | 2026-08-17 | 5 | 45 | 33 | 10 | 37 | 119 |
+| 90d | 2026-07-18 | 6 | 56 | 38 | 16 | 50 | 142 |
+| last180d | 2026-04-19 | 7 | 119 | 53 | 36 | 90 | 356 |
+| 360d | 2025-10-21 | 12 | 190 | 74 | 56 | 120 | 507 |
+| last720d | 2024-10-26 | 20 | 387 | 113 | 130 | 257 | 1116 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T06:01:37Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:54:56Z._
