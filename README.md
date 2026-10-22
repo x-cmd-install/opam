@@ -26,7 +26,7 @@ Total: **74,686** lines of code across **309** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,382 · **Forks**: 408 · **Open issues**: 3,669 · **Contributors**: 173
+- **Stars**: 1,383 · **Forks**: 408 · **Open issues**: 3,669 · **Contributors**: 173
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 15 | 21 | 3 | 20 | 37 |
-| last60d | 2026-08-22 | 5 | 36 | 33 | 9 | 36 | 100 |
-| 90d | 2026-07-23 | 5 | 55 | 41 | 14 | 51 | 141 |
-| last180d | 2026-04-24 | 7 | 119 | 57 | 36 | 90 | 358 |
-| 360d | 2025-10-26 | 11 | 190 | 77 | 56 | 121 | 507 |
-| last720d | 2024-10-31 | 20 | 381 | 113 | 127 | 256 | 1115 |
+| 30d | 2026-09-22 | 1 | 14 | 20 | 3 | 20 | 37 |
+| last60d | 2026-08-23 | 4 | 36 | 33 | 9 | 36 | 100 |
+| 90d | 2026-07-24 | 5 | 55 | 41 | 14 | 51 | 141 |
+| last180d | 2026-04-25 | 7 | 119 | 57 | 36 | 90 | 358 |
+| 360d | 2025-10-27 | 11 | 190 | 77 | 56 | 121 | 507 |
+| last720d | 2024-11-01 | 19 | 381 | 113 | 127 | 256 | 1111 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:09:30Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:05:53Z._
