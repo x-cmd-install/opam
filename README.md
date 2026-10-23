@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 408 · **Open issues**: 3,669 · **Contributors**: 173
+- **Stars**: 1,384 · **Forks**: 408 · **Open issues**: 3,671 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2949 · **Open issues**: 720 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2949 · **Open issues**: 722 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 14 | 20 | 3 | 20 | 37 |
-| last60d | 2026-08-23 | 4 | 36 | 33 | 9 | 36 | 100 |
-| 90d | 2026-07-24 | 5 | 55 | 41 | 14 | 51 | 141 |
-| last180d | 2026-04-25 | 7 | 119 | 57 | 36 | 90 | 358 |
-| 360d | 2025-10-27 | 11 | 190 | 77 | 56 | 121 | 507 |
-| last720d | 2024-11-01 | 19 | 381 | 113 | 127 | 256 | 1111 |
+| 30d | 2026-09-23 | 1 | 14 | 19 | 3 | 22 | 37 |
+| last60d | 2026-08-24 | 4 | 36 | 33 | 9 | 38 | 100 |
+| 90d | 2026-07-25 | 5 | 55 | 41 | 13 | 52 | 141 |
+| last180d | 2026-04-26 | 7 | 119 | 57 | 36 | 92 | 358 |
+| 360d | 2025-10-28 | 11 | 189 | 76 | 56 | 122 | 507 |
+| last720d | 2024-11-02 | 19 | 381 | 113 | 127 | 258 | 1111 |
 
 ## Release assets
 
@@ -98,6 +98,25 @@ Lowest-scoring checks:
 | [opam-full-2.6.1.tar.gz](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz) | 15.1 MiB | `native/unknown` |
 | [opam-full-2.6.1.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz.sig) | 594 B | `other` |
 
+## Distribution status
+
+Reported by **132** distros on [repology.org](https://repology.org/project/opam). **16** are ✅ on the latest upstream release, **99** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.5.2` | ⚠️ outdated |
+| Debian 14 | `2.5.2` | ⚠️ outdated |
+| Debian 13 | `2.3.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
+| Arch | `2.6.1` | ✅ latest |
+| Homebrew | `2.6.1` | ✅ latest |
+| Fedora rawhide | `2.6.1` | ✅ latest |
+| Nix unstable | `2.6.1` | ✅ latest |
+| Void | `2.6.1` | ✅ latest |
+| Alpine edge | `2.6.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.6.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `opam` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:05:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:10:38Z._
