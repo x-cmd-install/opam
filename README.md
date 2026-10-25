@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,384 · **Forks**: 408 · **Open issues**: 3,671 · **Contributors**: 173
+- **Stars**: 1,385 · **Forks**: 408 · **Open issues**: 3,671 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2949 · **Open issues**: 722 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2950 · **Open issues**: 721 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 14 | 19 | 2 | 20 | 37 |
-| last60d | 2026-08-25 | 4 | 36 | 33 | 8 | 36 | 100 |
-| 90d | 2026-07-26 | 5 | 55 | 41 | 13 | 52 | 141 |
-| last180d | 2026-04-27 | 7 | 119 | 57 | 36 | 92 | 358 |
-| 360d | 2025-10-29 | 11 | 189 | 76 | 55 | 122 | 507 |
-| last720d | 2024-11-03 | 19 | 381 | 113 | 127 | 258 | 1111 |
+| 30d | 2026-09-25 | 1 | 14 | 19 | 2 | 20 | 31 |
+| last60d | 2026-08-26 | 4 | 36 | 33 | 8 | 36 | 82 |
+| 90d | 2026-07-27 | 5 | 54 | 40 | 12 | 52 | 139 |
+| last180d | 2026-04-28 | 7 | 115 | 57 | 35 | 92 | 328 |
+| 360d | 2025-10-30 | 11 | 189 | 76 | 54 | 122 | 494 |
+| last720d | 2024-11-04 | 19 | 381 | 113 | 125 | 258 | 1111 |
 
 ## Release assets
 
@@ -100,11 +100,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/opam). **16** are ✅ on the latest upstream release, **99** are ⚠️ on an older version.
+Reported by **133** distros on [repology.org](https://repology.org/project/opam). **18** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.5.2` | ⚠️ outdated |
+| Debian unstable | `2.5.2` | 🪦 legacy |
 | Debian 14 | `2.5.2` | ⚠️ outdated |
 | Debian 13 | `2.3.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:52:17Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:57:00Z._
