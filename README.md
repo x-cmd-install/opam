@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,386 · **Forks**: 409 · **Open issues**: 3,672 · **Contributors**: 173
+- **Stars**: 1,386 · **Forks**: 409 · **Open issues**: 3,673 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2951 · **Open issues**: 721 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2951 · **Open issues**: 722 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 14 | 19 | 3 | 20 | 31 |
-| last60d | 2026-08-27 | 4 | 36 | 31 | 9 | 33 | 82 |
-| 90d | 2026-07-28 | 5 | 54 | 39 | 13 | 49 | 139 |
-| last180d | 2026-04-29 | 7 | 114 | 57 | 35 | 92 | 328 |
-| 360d | 2025-10-31 | 11 | 188 | 76 | 55 | 122 | 494 |
-| last720d | 2024-11-05 | 19 | 381 | 113 | 125 | 258 | 1111 |
+| 30d | 2026-09-27 | 1 | 14 | 19 | 3 | 21 | 31 |
+| last60d | 2026-08-28 | 4 | 36 | 30 | 9 | 34 | 82 |
+| 90d | 2026-07-29 | 5 | 53 | 39 | 13 | 49 | 139 |
+| last180d | 2026-04-30 | 7 | 114 | 57 | 35 | 92 | 328 |
+| 360d | 2025-11-01 | 11 | 188 | 76 | 55 | 123 | 494 |
+| last720d | 2024-11-06 | 19 | 381 | 113 | 125 | 259 | 1111 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **133** distros on [repology.org](https://repology.org/project/opam). **18** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
+Reported by **133** distros on [repology.org](https://repology.org/project/opam). **19** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -115,7 +115,7 @@ Reported by **133** distros on [repology.org](https://repology.org/project/opam)
 | Nix unstable | `2.6.1` | ✅ latest |
 | Void | `2.6.1` | ✅ latest |
 | Alpine edge | `2.6.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.6.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.6.1` | ✅ latest |
 
 ## Improve this data
 
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:08:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:29:50Z._
