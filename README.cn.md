@@ -52,18 +52,18 @@ x install opam
 
 ## 累计统计
 
-- **发布数**: 96 · **已合并 PR**: 3011 · **开放 PR**: 168 · **已关闭 issue**: 2951 · **开放 issue**: 722 · **提交数**: 12510
+- **发布数**: 96 · **已合并 PR**: 3011 · **开放 PR**: 171 · **已关闭 issue**: 2951 · **开放 issue**: 722 · **提交数**: 12510
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 13 | 19 | 3 | 19 | 31 |
-| last60d | 2026-08-29 | 4 | 36 | 30 | 9 | 34 | 82 |
-| 90d | 2026-07-30 | 5 | 53 | 39 | 13 | 49 | 139 |
-| last180d | 2026-05-01 | 7 | 113 | 57 | 34 | 92 | 328 |
-| 360d | 2025-11-02 | 11 | 186 | 76 | 55 | 123 | 494 |
-| last720d | 2024-11-07 | 19 | 380 | 113 | 124 | 259 | 1111 |
+| 30d | 2026-09-29 | 1 | 12 | 21 | 3 | 19 | 31 |
+| last60d | 2026-08-30 | 4 | 36 | 33 | 9 | 34 | 82 |
+| 90d | 2026-07-31 | 5 | 53 | 42 | 13 | 49 | 139 |
+| last180d | 2026-05-02 | 7 | 113 | 60 | 34 | 92 | 328 |
+| 360d | 2025-11-03 | 11 | 180 | 79 | 54 | 123 | 494 |
+| last720d | 2024-11-08 | 19 | 380 | 116 | 124 | 259 | 1111 |
 
 ## Release 资产
 
@@ -100,17 +100,17 @@ x install opam
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/opam) 上共有 **133** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**96** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/opam) 上共有 **131** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**94** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `2.5.2` | 🪦 legacy |
+| Debian unstable | `2.6.1` | ✅ latest |
 | Debian 14 | `2.5.2` | ⚠️ outdated |
 | Debian 13 | `2.3.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
 | Arch | `2.6.1` | ✅ latest |
-| Homebrew | `2.6.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.6.1` | ✅ latest |
 | Nix unstable | `2.6.1` | ✅ latest |
 | Void | `2.6.1` | ✅ latest |
@@ -126,4 +126,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T07:07:33Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T07:14:35Z._

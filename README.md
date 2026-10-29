@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 168 · **Closed issues**: 2951 · **Open issues**: 722 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 171 · **Closed issues**: 2951 · **Open issues**: 722 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 13 | 19 | 3 | 19 | 31 |
-| last60d | 2026-08-29 | 4 | 36 | 30 | 9 | 34 | 82 |
-| 90d | 2026-07-30 | 5 | 53 | 39 | 13 | 49 | 139 |
-| last180d | 2026-05-01 | 7 | 113 | 57 | 34 | 92 | 328 |
-| 360d | 2025-11-02 | 11 | 186 | 76 | 55 | 123 | 494 |
-| last720d | 2024-11-07 | 19 | 380 | 113 | 124 | 259 | 1111 |
+| 30d | 2026-09-29 | 1 | 12 | 21 | 3 | 19 | 31 |
+| last60d | 2026-08-30 | 4 | 36 | 33 | 9 | 34 | 82 |
+| 90d | 2026-07-31 | 5 | 53 | 42 | 13 | 49 | 139 |
+| last180d | 2026-05-02 | 7 | 113 | 60 | 34 | 92 | 328 |
+| 360d | 2025-11-03 | 11 | 180 | 79 | 54 | 123 | 494 |
+| last720d | 2024-11-08 | 19 | 380 | 116 | 124 | 259 | 1111 |
 
 ## Release assets
 
@@ -100,17 +100,17 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **133** distros on [repology.org](https://repology.org/project/opam). **19** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/opam). **20** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.5.2` | 🪦 legacy |
+| Debian unstable | `2.6.1` | ✅ latest |
 | Debian 14 | `2.5.2` | ⚠️ outdated |
 | Debian 13 | `2.3.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
 | Arch | `2.6.1` | ✅ latest |
-| Homebrew | `2.6.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.6.1` | ✅ latest |
 | Nix unstable | `2.6.1` | ✅ latest |
 | Void | `2.6.1` | ✅ latest |
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:07:32Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:14:35Z._
