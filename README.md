@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 12 | 22 | 3 | 20 | 31 |
-| last60d | 2026-08-31 | 4 | 32 | 32 | 9 | 32 | 82 |
-| 90d | 2026-08-01 | 5 | 53 | 43 | 13 | 50 | 139 |
-| last180d | 2026-05-03 | 7 | 113 | 60 | 34 | 93 | 328 |
-| 360d | 2025-11-04 | 11 | 177 | 77 | 54 | 124 | 494 |
-| last720d | 2024-11-09 | 19 | 380 | 117 | 124 | 260 | 1111 |
+| 30d | 2026-10-01 | 1 | 10 | 19 | 3 | 18 | 31 |
+| last60d | 2026-09-01 | 3 | 32 | 31 | 8 | 31 | 82 |
+| 90d | 2026-08-02 | 5 | 53 | 43 | 13 | 50 | 139 |
+| last180d | 2026-05-04 | 7 | 112 | 60 | 34 | 93 | 328 |
+| 360d | 2025-11-05 | 11 | 177 | 77 | 53 | 124 | 494 |
+| last720d | 2024-11-10 | 19 | 380 | 117 | 124 | 260 | 1111 |
 
 ## Release assets
 
@@ -110,7 +110,7 @@ Reported by **131** distros on [repology.org](https://repology.org/project/opam)
 | Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
 | Arch | `2.6.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.6.1` | ✅ latest |
 | Fedora rawhide | `2.6.1` | ✅ latest |
 | Nix unstable | `2.6.1` | ✅ latest |
 | Void | `2.6.1` | ✅ latest |
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:13:47Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:07:12Z._
