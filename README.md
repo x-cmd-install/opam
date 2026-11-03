@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 172 · **Closed issues**: 2951 · **Open issues**: 723 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 173 · **Closed issues**: 2952 · **Open issues**: 722 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 10 | 16 | 3 | 18 | 9 |
-| last60d | 2026-09-03 | 3 | 31 | 30 | 8 | 29 | 68 |
-| 90d | 2026-08-04 | 5 | 51 | 43 | 12 | 50 | 137 |
-| last180d | 2026-05-06 | 7 | 111 | 58 | 33 | 92 | 311 |
-| 360d | 2025-11-07 | 11 | 176 | 76 | 52 | 123 | 479 |
-| last720d | 2024-11-12 | 19 | 379 | 117 | 124 | 260 | 1111 |
+| 30d | 2026-10-04 | 1 | 10 | 17 | 4 | 17 | 9 |
+| last60d | 2026-09-04 | 3 | 31 | 31 | 9 | 28 | 68 |
+| 90d | 2026-08-05 | 5 | 51 | 44 | 13 | 49 | 137 |
+| last180d | 2026-05-07 | 7 | 110 | 58 | 34 | 91 | 311 |
+| 360d | 2025-11-08 | 11 | 174 | 77 | 53 | 122 | 479 |
+| last720d | 2024-11-13 | 19 | 378 | 118 | 125 | 259 | 1110 |
 
 ## Release assets
 
@@ -100,12 +100,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/opam). **20** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/opam). **21** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.6.1` | ✅ latest |
-| Debian 14 | `2.5.2` | ⚠️ outdated |
+| Debian 14 | `2.6.1` | ✅ latest |
 | Debian 13 | `2.3.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:44:47Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:28:53Z._
