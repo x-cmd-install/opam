@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 173 · **Closed issues**: 2952 · **Open issues**: 722 · **Commits**: 12510
+- **Releases**: 96 · **Merged PRs**: 3011 · **Open PRs**: 172 · **Closed issues**: 2952 · **Open issues**: 722 · **Commits**: 12510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 10 | 17 | 4 | 17 | 9 |
-| last60d | 2026-09-04 | 3 | 31 | 31 | 9 | 28 | 68 |
-| 90d | 2026-08-05 | 5 | 51 | 44 | 13 | 49 | 137 |
-| last180d | 2026-05-07 | 7 | 110 | 58 | 34 | 91 | 311 |
-| 360d | 2025-11-08 | 11 | 174 | 77 | 53 | 122 | 479 |
-| last720d | 2024-11-13 | 19 | 378 | 118 | 125 | 259 | 1110 |
+| 30d | 2026-10-05 | 1 | 7 | 16 | 4 | 13 | 9 |
+| last60d | 2026-09-05 | 3 | 31 | 31 | 9 | 28 | 68 |
+| 90d | 2026-08-06 | 5 | 51 | 44 | 13 | 49 | 137 |
+| last180d | 2026-05-08 | 7 | 110 | 58 | 34 | 91 | 311 |
+| 360d | 2025-11-09 | 11 | 174 | 76 | 52 | 122 | 479 |
+| last720d | 2024-11-14 | 18 | 376 | 117 | 123 | 258 | 1107 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:28:53Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:58:35Z._
