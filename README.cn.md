@@ -58,12 +58,12 @@ x install opam
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 3 | 19 | 4 | 9 | 9 |
-| last60d | 2026-09-08 | 3 | 26 | 34 | 9 | 26 | 68 |
-| 90d | 2026-08-09 | 5 | 51 | 48 | 13 | 49 | 137 |
-| last180d | 2026-05-11 | 7 | 109 | 62 | 34 | 89 | 311 |
-| 360d | 2025-11-12 | 10 | 170 | 80 | 52 | 120 | 479 |
-| last720d | 2024-11-17 | 18 | 373 | 121 | 122 | 258 | 1095 |
+| 30d | 2026-10-09 | 0 | 3 | 18 | 4 | 9 | 3 |
+| last60d | 2026-09-09 | 2 | 26 | 33 | 9 | 26 | 62 |
+| 90d | 2026-08-10 | 5 | 50 | 47 | 13 | 49 | 123 |
+| last180d | 2026-05-12 | 7 | 108 | 62 | 34 | 89 | 302 |
+| 360d | 2025-11-13 | 10 | 170 | 80 | 52 | 120 | 471 |
+| last720d | 2024-11-18 | 18 | 371 | 121 | 122 | 258 | 1095 |
 
 ## Release 资产
 
@@ -98,25 +98,6 @@ x install opam
 | [opam-full-2.6.1.tar.gz](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz) | 15.1 MiB | `native/unknown` |
 | [opam-full-2.6.1.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz.sig) | 594 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/opam) 上共有 **132** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**93** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.6.1` | ✅ latest |
-| Debian 14 | `2.6.1` | ✅ latest |
-| Debian 13 | `2.3.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
-| Arch | `2.6.1` | ✅ latest |
-| Homebrew | `2.6.1` | ✅ latest |
-| Fedora rawhide | `2.6.1` | ✅ latest |
-| Nix unstable | `2.6.1` | ✅ latest |
-| Void | `2.6.1` | ✅ latest |
-| Alpine edge | `2.6.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.6.1` | ✅ latest |
-
 ## 改进这些数据
 
 opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opam` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -126,4 +107,4 @@ opam 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T07:25:02Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T07:22:09Z._

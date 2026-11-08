@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 3 | 19 | 4 | 9 | 9 |
-| last60d | 2026-09-08 | 3 | 26 | 34 | 9 | 26 | 68 |
-| 90d | 2026-08-09 | 5 | 51 | 48 | 13 | 49 | 137 |
-| last180d | 2026-05-11 | 7 | 109 | 62 | 34 | 89 | 311 |
-| 360d | 2025-11-12 | 10 | 170 | 80 | 52 | 120 | 479 |
-| last720d | 2024-11-17 | 18 | 373 | 121 | 122 | 258 | 1095 |
+| 30d | 2026-10-09 | 0 | 3 | 18 | 4 | 9 | 3 |
+| last60d | 2026-09-09 | 2 | 26 | 33 | 9 | 26 | 62 |
+| 90d | 2026-08-10 | 5 | 50 | 47 | 13 | 49 | 123 |
+| last180d | 2026-05-12 | 7 | 108 | 62 | 34 | 89 | 302 |
+| 360d | 2025-11-13 | 10 | 170 | 80 | 52 | 120 | 471 |
+| last720d | 2024-11-18 | 18 | 371 | 121 | 122 | 258 | 1095 |
 
 ## Release assets
 
@@ -98,25 +98,6 @@ Lowest-scoring checks:
 | [opam-full-2.6.1.tar.gz](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz) | 15.1 MiB | `native/unknown` |
 | [opam-full-2.6.1.tar.gz.sig](https://github.com/ocaml/opam/releases/download/2.6.1/opam-full-2.6.1.tar.gz.sig) | 594 B | `other` |
 
-## Distribution status
-
-Reported by **132** distros on [repology.org](https://repology.org/project/opam). **22** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.6.1` | ✅ latest |
-| Debian 14 | `2.6.1` | ✅ latest |
-| Debian 13 | `2.3.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.5.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.1.5` | ⚠️ outdated |
-| Arch | `2.6.1` | ✅ latest |
-| Homebrew | `2.6.1` | ✅ latest |
-| Fedora rawhide | `2.6.1` | ✅ latest |
-| Nix unstable | `2.6.1` | ✅ latest |
-| Void | `2.6.1` | ✅ latest |
-| Alpine edge | `2.6.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.6.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `opam` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -126,4 +107,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:02Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:22:08Z._
