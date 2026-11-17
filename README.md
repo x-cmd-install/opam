@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.6.1` (2026-10-07)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-16
 - **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 1,390 · **Forks**: 411 · **Open issues**: 3,676 · **Contributors**: 174
+- **Stars**: 1,390 · **Forks**: 411 · **Open issues**: 3,677 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3012 · **Open PRs**: 181 · **Closed issues**: 2954 · **Open issues**: 722 · **Commits**: 12512
+- **Releases**: 96 · **Merged PRs**: 3013 · **Open PRs**: 183 · **Closed issues**: 2954 · **Open issues**: 723 · **Commits**: 12515
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 15 | 3 | 5 | 2 |
-| last60d | 2026-09-17 | 2 | 20 | 35 | 8 | 25 | 39 |
-| 90d | 2026-08-18 | 5 | 47 | 50 | 13 | 43 | 103 |
-| last180d | 2026-05-20 | 7 | 104 | 67 | 33 | 89 | 300 |
-| 360d | 2025-11-21 | 9 | 165 | 84 | 52 | 116 | 460 |
-| last720d | 2024-11-26 | 18 | 368 | 126 | 123 | 256 | 1084 |
+| 30d | 2026-10-18 | 0 | 2 | 17 | 3 | 6 | 5 |
+| last60d | 2026-09-18 | 1 | 21 | 37 | 7 | 26 | 42 |
+| 90d | 2026-08-19 | 5 | 46 | 52 | 13 | 44 | 106 |
+| last180d | 2026-05-21 | 7 | 105 | 68 | 32 | 89 | 303 |
+| 360d | 2025-11-22 | 9 | 166 | 86 | 52 | 117 | 463 |
+| last720d | 2024-11-27 | 18 | 369 | 127 | 123 | 257 | 1087 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/opam). **26** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **137** distros on [repology.org](https://repology.org/project/opam). **27** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:56:32Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:54:47Z._
