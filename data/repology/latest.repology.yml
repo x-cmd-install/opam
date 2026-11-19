@@ -1,4 +1,18 @@
-- repo: manjaro_testing
+- repo: homebrew
+  srcname: opam
+  visiblename: opam
+  version: 2.6.1
+  origversion: null
+  status: newest
+  summary: OCaml package manager
+- repo: homebrew
+  srcname: opam
+  visiblename: opam
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: OCaml package manager
+- repo: arch
   subrepo: extra
   srcname: opam
   binname: opam
@@ -9,110 +23,6 @@
   summary: OCaml package manager
   licenses:
     - LGPL-2.1-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: opam
-  binname: opam
-  visiblename: opam
-  version: 2.6.1
-  origversion: 2.6.1-1
-  status: newest
-  summary: OCaml package manager
-  licenses:
-    - LGPL-2.1-only
-- repo: nix_stable_24_05
-  srcname: opam
-  visiblename: opam
-  version: 2.1.5
-  origversion: null
-  status: outdated
-  summary: A package manager for OCaml
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - LGPL-2.1-only
-- repo: nix_stable_24_11
-  srcname: opam
-  visiblename: opam
-  version: 2.3.0
-  origversion: null
-  status: outdated
-  summary: Package manager for OCaml
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - LGPL-2.1-only
-- repo: nix_stable_25_05
-  srcname: opam
-  visiblename: opam
-  version: 2.3.0
-  origversion: null
-  status: outdated
-  summary: Package manager for OCaml
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - LGPL-2.1-only
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.3.0
-  origversion: 2.3.0-1+deb13u2
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - glondu@debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.3.0
-  origversion: 2.3.0-1+deb13u2
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - glondu@debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: cygwin
-  srcname: opam
-  binname: opam
-  visiblename: opam
-  version: 2.0.7
-  origversion: 2.0.7-1
-  status: outdated
-  summary: a source-based package manager for OCaml
-  maintainers:
-    - andy.li@cygwin
-  categories:
-    - Libs
-- repo: cygwin
-  srcname: opam
-  binname: opam-installer
-  visiblename: opam-installer
-  version: 2.0.7
-  origversion: 2.0.7-1
-  status: outdated
-  summary: a source-based package manager for OCaml
-  maintainers:
-    - andy.li@cygwin
-  categories:
-    - Libs
 - repo: alpine_3_17
   subrepo: community
   srcname: opam
@@ -308,6 +218,18 @@
     - kit-ty-kate@exn.st
   licenses:
     - LGPL-2.1-only WITH OCaml-LGPL-linking-exception
+- repo: aur
+  srcname: opam-git
+  binname: opam-git
+  visiblename: opam-git
+  version: 2.4.0.alpha2.r22.g708d62ec2
+  origversion: 2.4.0.alpha2.r22.g708d62ec2-1
+  status: rolling
+  summary: OCaml package manager
+  maintainers:
+    - matthewq337@aur
+  licenses:
+    - GPL
 - repo: alpine_3_24
   subrepo: community
   srcname: opam
@@ -386,55 +308,6 @@
     - LGPL-2.1-only WITH OCaml-LGPL-linking-exception
   categories:
     - Development/ML
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.0.3
-  origversion: 2.0.3-1+deb10u1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - mehdi@debian.org
-    - nicolas@braud-santoni.eu
-- repo: deepin_23
-  subrepo: main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.1.5
-  origversion: 2.1.5-1deepin1+rb1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - ocaml
 - repo: altsisyphus
   srcname: opam
   binnames:
@@ -563,29 +436,6 @@
     - glondu@debian.org
     - mehdi@debian.org
     - nicoo@debian.org
-- repo: arch
-  subrepo: extra
-  srcname: opam
-  binname: opam
-  visiblename: opam
-  version: 2.6.1
-  origversion: 2.6.1-1
-  status: newest
-  summary: OCaml package manager
-  licenses:
-    - LGPL-2.1-only
-- repo: aur
-  srcname: opam-git
-  binname: opam-git
-  visiblename: opam-git
-  version: 2.4.0.alpha2.r22.g708d62ec2
-  origversion: 2.4.0.alpha2.r22.g708d62ec2-1
-  status: rolling
-  summary: OCaml package manager
-  maintainers:
-    - matthewq337@aur
-  licenses:
-    - GPL
 - repo: artix
   subrepo: world
   srcname: opam
@@ -639,6 +489,30 @@
   summary: OCaml package manager
   licenses:
     - LGPL-2.1-with-linking-exception
+- repo: cygwin
+  srcname: opam
+  binname: opam
+  visiblename: opam
+  version: 2.0.7
+  origversion: 2.0.7-1
+  status: outdated
+  summary: a source-based package manager for OCaml
+  maintainers:
+    - andy.li@cygwin
+  categories:
+    - Libs
+- repo: cygwin
+  srcname: opam
+  binname: opam-installer
+  visiblename: opam-installer
+  version: 2.0.7
+  origversion: 2.0.7-1
+  status: outdated
+  summary: a source-based package manager for OCaml
+  maintainers:
+    - andy.li@cygwin
+  categories:
+    - Libs
 - repo: debian_11
   subrepo: bullseye-security/main
   srcname: opam
@@ -656,16 +530,16 @@
     - nicoo@debian.org
   categories:
     - misc
-- repo: debian_12
-  subrepo: bookworm/main
+- repo: debian_11
+  subrepo: bullseye/main
   srcname: opam
   binnames:
     - opam
     - opam-doc
     - opam-installer
   visiblename: opam
-  version: 2.1.2
-  origversion: 2.1.2-1+deb12u1
+  version: 2.0.8
+  origversion: 2.0.8-1
   status: outdated
   maintainers:
     - debian-ocaml-maint@lists.debian.org
@@ -690,8 +564,25 @@
     - nicoo@debian.org
   categories:
     - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.1.2
+  origversion: 2.1.2-1+deb12u1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
 - repo: debian_13
-  subrepo: trixie-security/main
+  subrepo: trixie/main
   srcname: opam
   binnames:
     - opam
@@ -709,7 +600,7 @@
   categories:
     - misc
 - repo: debian_13
-  subrepo: trixie/main
+  subrepo: trixie-security/main
   srcname: opam
   binnames:
     - opam
@@ -762,6 +653,38 @@
     - nicoo@debian.org
   categories:
     - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.0.3
+  origversion: 2.0.3-1+deb10u1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicolas@braud-santoni.eu
+- repo: deepin_23
+  subrepo: main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.1.5
+  origversion: 2.1.5-1deepin1+rb1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - ocaml
 - repo: deepin_25
   subrepo: main
   srcname: opam
@@ -826,23 +749,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - dev-ocaml
-- repo: pardus_21
-  subrepo: main
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - misc
 - repo: fedora_39
   subrepo: release
   srcname: opam
@@ -878,21 +784,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: opam
-  binnames:
-    - opam
-    - opam-installer
-  visiblename: opam
-  version: 2.2.1
-  origversion: 2.2.1-1.fc41
-  status: legacy
-  summary: Source-based package manager for OCaml
-  licenses:
-    - LGPL-2.1-only WITH OCaml-LGPL-linking-exception
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: opam
   binnames:
@@ -902,6 +793,21 @@
   version: 2.3.0
   origversion: 2.3.0-2.fc41
   status: outdated
+  summary: Source-based package manager for OCaml
+  licenses:
+    - LGPL-2.1-only WITH OCaml-LGPL-linking-exception
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: opam
+  binnames:
+    - opam
+    - opam-installer
+  visiblename: opam
+  version: 2.2.1
+  origversion: 2.2.1-1.fc41
+  status: legacy
   summary: Source-based package manager for OCaml
   licenses:
     - LGPL-2.1-only WITH OCaml-LGPL-linking-exception
@@ -1106,6 +1012,15 @@
     - LGPL-2.1-with-linking-exception
   categories:
     - dev-ml
+- repo: scoop
+  subrepo: main
+  binname: opam
+  visiblename: opam
+  version: 2.6.1
+  origversion: null
+  status: newest
+  licenses:
+    - LGPL-2.1-only
 - repo: gentoo
   srcname: dev-ml/opam
   visiblename: dev-ml/opam
@@ -1153,20 +1068,6 @@
   origversion: null
   status: outdated
   summary: Package manager for OCaml
-- repo: homebrew
-  srcname: opam
-  visiblename: opam
-  version: 2.6.1
-  origversion: null
-  status: newest
-  summary: OCaml package manager
-- repo: homebrew
-  srcname: opam
-  visiblename: opam
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: OCaml package manager
 - repo: kali_rolling
   subrepo: main
   srcname: opam
@@ -1263,6 +1164,14 @@
     - LGPL-2.1-with-linking-exception
   categories:
     - dev-ml
+- repo: slackbuilds
+  srcname: system/opam
+  visiblename: system/opam
+  version: 2.1.2
+  origversion: null
+  status: outdated
+  categories:
+    - system
 - repo: liguros_develop
   srcname: dev-ml/opam
   visiblename: dev-ml/opam
@@ -1317,40 +1226,6 @@
     - LGPL-2
   categories:
     - ocaml
-- repo: mageia_9
-  subrepo: core/updates
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-debuginfo
-    - opam-debugsource
-  visiblename: opam
-  version: 2.1.3
-  origversion: 2.1.3-1.1.mga9
-  status: outdated
-  summary: A source-based package manager for OCaml
-  licenses:
-    - LGPLv2 with exceptions
-  categories:
-    - Development/OCaml
-- repo: mageia_9
-  subrepo: core/release
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-debuginfo
-    - opam-debugsource
-  visiblename: opam
-  version: 2.1.3
-  origversion: 2.1.3-1.mga9
-  status: outdated
-  summary: A source-based package manager for OCaml
-  licenses:
-    - LGPLv2 with exceptions
-  categories:
-    - Development/OCaml
 - repo: mageia_10
   subrepo: core/release
   srcname: opam
@@ -1390,6 +1265,61 @@
   origversion: 2.6.0-1
   status: outdated
   summary: OCaml package manager
+  licenses:
+    - LGPL-2.1-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: opam
+  binname: opam
+  visiblename: opam
+  version: 2.6.1
+  origversion: 2.6.1-1
+  status: newest
+  summary: OCaml package manager
+  licenses:
+    - LGPL-2.1-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opam
+  binname: opam
+  visiblename: opam
+  version: 2.6.1
+  origversion: 2.6.1-1
+  status: newest
+  summary: OCaml package manager
+  licenses:
+    - LGPL-2.1-only
+- repo: nix_stable_24_05
+  srcname: opam
+  visiblename: opam
+  version: 2.1.5
+  origversion: null
+  status: outdated
+  summary: A package manager for OCaml
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - LGPL-2.1-only
+- repo: nix_stable_24_11
+  srcname: opam
+  visiblename: opam
+  version: 2.3.0
+  origversion: null
+  status: outdated
+  summary: Package manager for OCaml
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - LGPL-2.1-only
+- repo: nix_stable_25_05
+  srcname: opam
+  visiblename: opam
+  version: 2.3.0
+  origversion: null
+  status: outdated
+  summary: Package manager for OCaml
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - LGPL-2.1-only
 - repo: nix_stable_25_11
@@ -1508,6 +1438,59 @@
   status: outdated
   maintainers:
     - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
+- repo: pardus_21
+  subrepo: main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.0.8
+  origversion: 2.0.8-1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.3.0
+  origversion: 2.3.0-1+deb13u2
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - glondu@debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.3.0
+  origversion: 2.3.0-1+deb13u2
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - glondu@debian.org
     - mehdi@debian.org
     - nicoo@debian.org
   categories:
@@ -1653,23 +1636,6 @@
     - nicoo@debian.org
   categories:
     - misc
-- repo: scoop
-  subrepo: main
-  binname: opam
-  visiblename: opam
-  version: 2.6.1
-  origversion: null
-  status: newest
-  licenses:
-    - LGPL-2.1-only
-- repo: slackbuilds
-  srcname: system/opam
-  visiblename: system/opam
-  version: 2.1.2
-  origversion: null
-  status: outdated
-  categories:
-    - system
 - repo: solus
   srcname: opam
   binname: opam
@@ -1779,23 +1745,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.1.2
-  origversion: 2.1.2-1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy-updates/universe
   srcname: opam
   binnames:
@@ -1805,6 +1754,23 @@
   visiblename: opam
   version: 2.1.2
   origversion: 2.1.2-1+deb12u1build0.22.04.1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.1.2
+  origversion: 2.1.2-1
   status: outdated
   maintainers:
     - debian-ocaml-maint@lists.debian.org
@@ -1848,24 +1814,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_25_10
-  subrepo: questing-updates/universe
-  srcname: opam
-  binnames:
-    - opam
-    - opam-doc
-    - opam-installer
-  visiblename: opam
-  version: 2.3.0
-  origversion: 2.3.0-1+deb13u1build0.25.10.1
-  status: outdated
-  maintainers:
-    - debian-ocaml-maint@lists.debian.org
-    - glondu@debian.org
-    - mehdi@debian.org
-    - nicoo@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: opam
   binnames:
@@ -1875,6 +1823,24 @@
   visiblename: opam
   version: 2.3.0
   origversion: 2.3.0-1
+  status: outdated
+  maintainers:
+    - debian-ocaml-maint@lists.debian.org
+    - glondu@debian.org
+    - mehdi@debian.org
+    - nicoo@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing-updates/universe
+  srcname: opam
+  binnames:
+    - opam
+    - opam-doc
+    - opam-installer
+  visiblename: opam
+  version: 2.3.0
+  origversion: 2.3.0-1+deb13u1build0.25.10.1
   status: outdated
   maintainers:
     - debian-ocaml-maint@lists.debian.org
