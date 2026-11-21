@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 3015 · **Open PRs**: 184 · **Closed issues**: 2954 · **Open issues**: 725 · **Commits**: 12523
+- **Releases**: 96 · **Merged PRs**: 3015 · **Open PRs**: 180 · **Closed issues**: 2954 · **Open issues**: 725 · **Commits**: 12523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 4 | 17 | 3 | 7 | 21 |
-| last60d | 2026-09-21 | 1 | 19 | 38 | 6 | 27 | 58 |
-| 90d | 2026-08-22 | 5 | 40 | 50 | 12 | 43 | 122 |
-| last180d | 2026-05-24 | 7 | 106 | 69 | 31 | 91 | 319 |
-| 360d | 2025-11-25 | 9 | 166 | 86 | 52 | 118 | 479 |
-| last720d | 2024-11-30 | 18 | 367 | 127 | 122 | 259 | 1086 |
+| 30d | 2026-10-22 | 0 | 4 | 13 | 2 | 6 | 21 |
+| last60d | 2026-09-22 | 1 | 18 | 33 | 6 | 27 | 58 |
+| 90d | 2026-08-23 | 4 | 40 | 46 | 12 | 43 | 122 |
+| last180d | 2026-05-25 | 7 | 106 | 65 | 31 | 91 | 319 |
+| 360d | 2025-11-26 | 9 | 166 | 82 | 52 | 118 | 479 |
+| last720d | 2024-12-01 | 18 | 365 | 123 | 122 | 259 | 1083 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/opam). **27** are ✅ on the latest upstream release, **88** are ⚠️ on an older version.
+Reported by **134** distros on [repology.org](https://repology.org/project/opam). **27** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:29:21Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:37:58Z._
