@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 4 | 13 | 2 | 6 | 21 |
-| last60d | 2026-09-22 | 1 | 18 | 33 | 6 | 27 | 58 |
-| 90d | 2026-08-23 | 4 | 40 | 46 | 12 | 43 | 122 |
-| last180d | 2026-05-25 | 7 | 106 | 65 | 31 | 91 | 319 |
-| 360d | 2025-11-26 | 9 | 166 | 82 | 52 | 118 | 479 |
-| last720d | 2024-12-01 | 18 | 365 | 123 | 122 | 259 | 1083 |
+| 30d | 2026-10-23 | 0 | 4 | 13 | 2 | 6 | 21 |
+| last60d | 2026-09-23 | 1 | 18 | 32 | 6 | 27 | 55 |
+| 90d | 2026-08-24 | 4 | 40 | 46 | 12 | 43 | 116 |
+| last180d | 2026-05-26 | 7 | 105 | 65 | 31 | 91 | 309 |
+| 360d | 2025-11-27 | 9 | 162 | 82 | 50 | 117 | 469 |
+| last720d | 2024-12-02 | 18 | 365 | 123 | 122 | 259 | 1082 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **134** distros on [repology.org](https://repology.org/project/opam). **27** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **134** distros on [repology.org](https://repology.org/project/opam). **30** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -126,4 +126,4 @@ Install metadata for opam lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:37:58Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:45:28Z._
